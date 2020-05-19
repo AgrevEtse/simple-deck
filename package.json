@@ -1,6 +1,6 @@
 {
   "name": "simple-deck",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "A simple way to create a deck or a card",
   "main": "./src/index.js",
   "scripts": {
