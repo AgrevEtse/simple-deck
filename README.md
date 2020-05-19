@@ -22,8 +22,11 @@ The deck is also an object, it has seven properties, there are **deck**, **typeD
 
 So that's all. If theres any suggestions you could leave it on the issues on the github repository and I will read them to get a better library, because this is my firts library and I think it's good but not enough and sorry for my english that is not very good but I tried to explain my self the best I can.
 
-##### Simple-Deck GitHub Repository
+#### Simple-Deck GitHub Repository
 [Simple-Deck Repository](https://github.com/AgrevEtse/simple-deck "Simple-Deck Repository")
+
+#### Simple-Deck NPM Package
+[Simple-Deck NPM Package](https://www.npmjs.com/package/simple-deck "Simple-Deck NPM Package")
 
 ```javascript
 const { Deck, Card } = require('simple-deck');
