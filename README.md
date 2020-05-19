@@ -20,7 +20,7 @@ The cards are objects, so the card has five properties, there are: **typeDeck**,
 
 The deck is also an object, it has seven properties, there are **deck**, **typeDeck**, **suits**, **numberCards**, **numberCardsSuit**, **rankStart** and **rankEnd**; the **deck** in an array of all the cards. The **typeDeck** is, obviously, the type of deck mentioned. The **suits** is an array of all the suits of that deck, example the suits of a German Deck are Hearts, Bells, Acorns and Leaves and the array will be `['Hearts', 'Bells', 'Acorns', 'Leaves']`. The **numberCards** is the total number of cards of the deck. The **numberCardsSuit** is the total number of cards per suit. The **rankStart** is the rank in which the suit starts, because there are the German and Swiss deck that theirs suit start at the rank 6, so thats why it is a property. And the **rankEnd** is where is the rank in which the suit ends, because the Mexican deck ends at the rank 12 and not the rank 13 as the another decks.
 
-So that's all. If theres any suggestions you could leave it on the issues on the github repository and I will read them to get a better library, because this is my firts library and I think it's good but not enough.
+So that's all. If theres any suggestions you could leave it on the issues on the github repository and I will read them to get a better library, because this is my firts library and I think it's good but not enough and sorry for my english that is not very good but I tried to explain my self the best I can.
 
 ##### Simple-Deck GitHub Repository
 [Simple-Deck Repository](https://github.com/AgrevEtse/simple-deck "Simple-Deck Repository")
